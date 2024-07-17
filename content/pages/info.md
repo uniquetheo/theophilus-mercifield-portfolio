@@ -14,10 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      ## Hey I’m a developer. I was been born and raised in Accra, Ghana, and that’s
+      also where I’m based. I’m currently a free agent, ex-amalitech trainee, ex-wordpress freelancer on fiverr. When I’m not coding, writing or watching a movie, I make music. I cook aswell, but I'm better at eating ;).
     media:
       type: ImageBlock
       url: /images/about.jpg
@@ -124,7 +122,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
+            url: 'https://github.com/uniquetheo'
         styles:
           self:
             textAlign: left
@@ -132,7 +130,7 @@ sections:
         actions:
           - type: Link
             label: Twitter
-            url: 'https://twitter.com/'
+            url: 'https://twitter.com/uniquetheo'
         styles:
           self:
             textAlign: left
@@ -140,7 +138,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: 'https://www.linkedin.com/theophilus-mensah'
         styles:
           self:
             textAlign: left
@@ -148,7 +146,7 @@ sections:
         actions:
           - type: Link
             label: CodePen
-            url: 'https://codepen.io/'
+            url: 'https://codepen.io/uniquetheo'
         styles:
           self:
             textAlign: left
@@ -156,7 +154,7 @@ sections:
         actions:
           - type: Link
             label: Discord
-            url: 'https://discord.com/'
+            url: 'https://discord.com/uniquetheo'
         styles:
           self:
             textAlign: left
@@ -164,7 +162,7 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://www.instagram.com/'
+            url: 'https://www.instagram.com/uniiktheo'
         styles:
           self:
             textAlign: left
@@ -239,7 +237,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [unique.theo98@gmail.com](mailto:unique.theo98@gmail.com)
   - type: DividerSection
     styles:
       self:
@@ -260,23 +258,23 @@ sections:
         text: |-
           **Current**
 
-          * freelance @freelance.me
+          * free agent taking orders
 
-          **2018-2021**
+          **2023-2024**
 
-          * fullstack at this startup
+          * frontend trainee at amalitech
 
-          **2015**
+          **2020 - **
 
-          * senior front-end at this place
+          * Freelancer Wordpress Developer on fiverr @uniquetheo
 
-          **2013**
+          **2020**
 
-          * intern developer at a big company
+          * intern developer at Bureau of Market and Social Research(MSR)
 
-          **2011**
+          **2017**
 
-          * flipping burgers
+          * cafe attendant at Typewell Ventures
         styles:
           self:
             textAlign: left
