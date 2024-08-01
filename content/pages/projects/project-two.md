@@ -1,11 +1,11 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: Erudite Challenge App
 colors: colors-a
 date: '2021-12-20'
-client: Awesome client
+client: Erudite Challenge Organizers
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  I built this web app for the well known erudite challenge that takes place here in Ghana. It showcases their mission, vision, how to register or sponsor the show. It has a portal for registration. This was built with Next.js.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg

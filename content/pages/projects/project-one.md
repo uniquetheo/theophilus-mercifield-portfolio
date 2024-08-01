@@ -1,11 +1,11 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: Rest Counties API Project
 colors: colors-a
-date: '2021-10-15'
+date: '2023-03-15'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  I built this with React, TypeScript, using Tailwind CSS. I used the version 3 of the countries REST API. It shows you the countries in the world and important information about the countries. 
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
