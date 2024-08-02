@@ -14,12 +14,13 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
+      I’m a developer, music producer, A&R and a bunch of other
       impressive titles and buzz words.
     subtitle: >-
       This is my info—I’m sharing it all this with y'all to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      can continue to scroll down to see more details and credentials about me, 
+      And hire me, I'm not too busy for your project :)
     styles:
       self:
         height: auto
