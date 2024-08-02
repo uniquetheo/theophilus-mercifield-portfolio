@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Rest Counties API Project
+title: Uniik Countries
 colors: colors-a
 date: '2023-03-15'
 client: Awesome client
@@ -8,22 +8,42 @@ description: >-
   I built this with React, TypeScript, using Tailwind CSS. I used the version 3 of the countries REST API. It shows you the countries in the world and important information about the countries. 
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/countries-dark.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/countries-dark.png
   altText: Project image
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+### Uniik Counties
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+I built this with React, TypeScript, using Tailwind CSS. I used version 3 of the countries REST API. It shows you the countries in the world and important information about the countries.
+
+#### Project Description
+
+The Uniik Counties app is an informative web application designed to provide detailed information about all the countries in the world. Built using modern web development technologies such as React, TypeScript, and Tailwind CSS, this project demonstrates my ability to create responsive, efficient, and user-friendly applications.
+
+**Features and Highlights:**
+- **Comprehensive Country Information:** The app fetches data from version 3 of the countries REST API to display important information about each country, including population, area, capital city, region, and more.
+- **Search and Filter Functionality:** Users can easily search for specific countries and filter results based on various criteria such as region or population size.
+- **Responsive Design:** Tailwind CSS is used to ensure the app is fully responsive, providing an optimal viewing experience on devices of all sizes.
+- **Interactive User Interface:** The interface is designed to be intuitive and engaging, with smooth transitions and dynamic updates as users interact with the app.
+
+**Technical Aspects:**
+- **React:** Leveraged the power of React to build a dynamic and interactive user interface, ensuring efficient state management and component-based architecture.
+- **TypeScript:** Used TypeScript to enhance code quality and maintainability by providing static typing and reducing the potential for runtime errors.
+- **Tailwind CSS:** Implemented Tailwind CSS to quickly and effectively style the application, ensuring a modern and cohesive design.
+- **REST API Integration:** Integrated with the countries REST API to fetch and display up-to-date information, handling asynchronous data fetching and error handling gracefully.
+
+**Learning Outcomes:**
+- **Enhanced Front-End Skills:** Gained deeper insights into building sophisticated front-end applications using React and TypeScript.
+- **API Integration:** Improved skills in integrating and working with REST APIs, managing data flow, and updating the UI dynamically.
+- **Responsive Design Principles:** Strengthened understanding of responsive design principles and how to apply them using utility-first CSS frameworks like Tailwind CSS.
+- **Type Safety:** Appreciated the benefits of using TypeScript for type safety, which helped catch errors early in the development process and improve overall code robustness.
+
+The Uniik Counties app is a testament to my ability to build feature-rich, user-friendly web applications. It showcases my proficiency in modern web technologies and my commitment to creating valuable tools that provide meaningful information to users.
 
 > “Everybody should learn to program a computer, because it teaches you how to think.”
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
-
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
-
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+Overall, this project highlights my technical skills, attention to detail, and dedication to delivering high-quality web applications.

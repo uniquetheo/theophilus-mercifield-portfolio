@@ -8,22 +8,41 @@ description: >-
   I built this web app for the well known erudite challenge that takes place here in Ghana. It showcases their mission, vision, how to register or sponsor the show. It has a portal for registration. This was built with Next.js.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/erudite-home.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/erudite-home.png
   altText: Project image
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+### Erudite Challenge App
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+I built this web app for the well-known Erudite Challenge that takes place here in Ghana. It showcases their mission, vision, how to register or sponsor the show. It has a portal for registration. This was built with Next.js.
+
+#### Project Description
+
+The Erudite Challenge App is a comprehensive web application designed to support the Erudite Challenge, a prestigious academic competition in Ghana. Built with Next.js, this app serves as a central hub for information and interaction, facilitating everything from understanding the organization's goals to registering participants and sponsors.
+
+**Features and Highlights:**
+- **Mission and Vision Showcase:** The app provides detailed insights into the Erudite Challenge's mission and vision, helping users understand the core values and objectives of the competition.
+- **Registration Portal:** A user-friendly registration portal allows participants and sponsors to easily sign up and get involved. The registration process is streamlined and secure, ensuring a smooth user experience.
+- **Sponsorship Information:** Potential sponsors can find all necessary information on how to support the Erudite Challenge, including benefits and sponsorship tiers.
+- **Responsive Design:** The app is fully responsive, offering an optimal viewing experience across a wide range of devices, from desktops to mobile phones.
+
+**Technical Aspects:**
+- **Next.js Framework:** Leveraging the power of Next.js, the app benefits from server-side rendering (SSR) and static site generation (SSG), resulting in improved performance and SEO.
+- **Dynamic Routing:** Implemented dynamic routing to manage different pages and content seamlessly, enhancing navigation and user experience.
+- **API Integration:** Integrated with backend APIs to handle user data securely and efficiently, ensuring real-time updates and interactions.
+- **State Management:** Utilized state management techniques to handle user sessions, registration data, and dynamic content updates.
+
+**Learning Outcomes:**
+- **Advanced Next.js Features:** Deepened my understanding of Next.js capabilities, including SSR, SSG, and API routes.
+- **User Authentication:** Gained experience in implementing user authentication and authorization, ensuring secure access to the registration portal.
+- **Performance Optimization:** Applied various techniques to optimize the app's performance, such as code splitting, lazy loading, and efficient data fetching strategies.
+
+The Erudite Challenge App not only highlights my technical skills in building robust web applications but also demonstrates my ability to create user-centric solutions that cater to specific organizational needs. This project reflects my dedication to delivering high-quality work and my passion for contributing to educational initiatives.
 
 > “Everybody should learn to program a computer, because it teaches you how to think.”
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
-
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
-
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+Overall, this project showcases my expertise in modern web development technologies and my commitment to enhancing user experiences through thoughtful design and functionality.
