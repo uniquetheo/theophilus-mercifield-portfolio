@@ -14,11 +14,11 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >-
-      ## Hey I’m a developer. I was been born and raised in Accra, Ghana, and that’s
-      also where I’m based. I’m currently a free agent, ex-amalitech trainee, ex-wordpress freelancer on fiverr. When I’m not coding, writing or watching a movie, I make music. I cook aswell, but I'm better at eating ;).
+      ## Hey I'm Theophilus, a developer. I was born and raised in Accra, Ghana, and that’s
+      also where I’m based. I’m currently a free agent, ex-amalitech trainee, wordpress freelancer on fiverr. When I’m not coding, writing or watching a movie, I make music. I cook as well, but I'm better at eating ;).
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/me.JPEG
       altText: Hero image
     styles:
       self:
