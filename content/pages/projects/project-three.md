@@ -5,7 +5,7 @@ colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  I built this game with HTML, CSS and JavaScript. It is a dipiction of the widely known rock-paper-scissors game.
+  I built this game with HTML, CSS and JavaScript. It is a dipiction of the widely known rock-paper-scissors game. Play it here https://uniik-rock-paper-scissors.netlify.app/
 featuredImage:
   type: ImageBlock
   url: /images/rock-paper.png

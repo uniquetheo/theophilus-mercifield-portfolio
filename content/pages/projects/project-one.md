@@ -5,7 +5,7 @@ colors: colors-a
 date: '2023-03-15'
 client: Awesome client
 description: >-
-  I built this with React, TypeScript, using Tailwind CSS. I used the version 3 of the countries REST API. It shows you the countries in the world and important information about the countries. 
+  I built this with React, TypeScript, using Tailwind CSS. I used the version 3 of the countries REST API. It shows you the countries in the world and important information about the countries. Check it out here https://uniik-countries.netlify.app/
 featuredImage:
   type: ImageBlock
   url: /images/countries-dark.png

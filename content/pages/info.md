@@ -286,17 +286,22 @@ sections:
       - type: FeaturedItem
         subtitle: 'Education:'
         text: |-
-          **2015-2018**
+          **2024**
 
-          * ba computer sciense at a semi fancy school
+          * graduate training programme frontend development (react.js) at amalitech
 
-          **2014**
+          **2022-2023**
 
-          * react certificate somewhere
+          * btech information technology (software engineering) at takoradi technical university
 
-          **2011**
+          **2019-2022**
+
+          * hnd information technology at takoradi technical university
+
+          **2017**
 
           * my highschool
+
         styles:
           self:
             textAlign: left
